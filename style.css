@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fed285;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #800020;
+    color: white;
+    padding: 30px;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    padding: 25px;
+    margin: 20px;
+}
+
+.about,
+.projects {
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.about img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.project {
+    background-color: #f4f4f9;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
